@@ -1,0 +1,70 @@
+{
+  "Primary": {
+    "Primary Lightest": "#F3F8F3",
+    "Primary Lighter": "#D9E8D6",
+    "Primary Main": "#9ECF9A",
+    "Primary Darker": "#74B674",
+    "Primary Darkest": "#4D7B4D"
+  },
+  "Secondary": {
+    "Secondary Lightest": "#F5F5F7",
+    "Secondary Lighter": "#E2DBEC",
+    "Secondary Main": "#7E6B9E",
+    "Secondary Darker": "#5C4C79",
+    "Secondary Darkest": "#3A2D49"
+  },
+  "Accent": {
+    "Accent Lightest": "#FFF4E3",
+    "Accent Lighter": "#FFD4A0",
+    "Accent Main": "#FFB366",
+    "Accent Darker": "#E3964D",
+    "Accent Darkest": "#A6652E"
+  },
+  "Tertiary": {
+    "Tertiary Lightest": "#F4FEFF",
+    "Tertiary Lighter": "#CFF6F9",
+    "Tertiary Main": "#97E6EB",
+    "Tertiary Darker": "#70C4C7",
+    "Tertiary Darkest": "#4A8385"
+  },
+  "Neutral": {
+    "Neutral Lightest": "#FFFFFF",
+    "Neutral Lighter": "#FAFAF8",
+    "Neutral Main": "#DEDCD8",
+    "Neutral Darker": "#99958E",
+    "Neutral Darkest": "#5A554D",
+    "Neutral Black": "#000000"
+  },
+  "Background": {
+    "Background Light": "#FFFFFF",
+    "Background Soft": "#F9F9F7"
+  },
+  "Success": {
+    "Success Lightest": "#EDF7EC",
+    "Success Lighter": "#A7D9B3",
+    "Success Main": "#68C180",
+    "Success Darker": "#4BA364",
+    "Success Darkest": "#35774A"
+  },
+  "Warning": {
+    "Warning Lightest": "#FFF7E5",
+    "Warning Lighter": "#FFE3B8",
+    "Warning Main": "#F7B833",
+    "Warning Darker": "#D89516",
+    "Warning Darkest": "#9E6C0E"
+  },
+  "Error": {
+    "Error Lightest": "#FCE7E5",
+    "Error Lighter": "#F7BBB6",
+    "Error Main": "#E74C3C",
+    "Error Darker": "#CF3E2E",
+    "Error Darkest": "#992F23"
+  },
+  "Info": {
+    "Info Lightest": "#E4F1F9",
+    "Info Lighter": "#A5CBE5",
+    "Info Main": "#5AA8D8",
+    "Info Darker": "#4A8BB3",
+    "Info Darkest": "#346480"
+  }
+}
